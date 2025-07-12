@@ -22,7 +22,7 @@ Setup and Installation:
             source venv/bin/activate
 
 4.Install Dependencies: Open your terminal or command prompt, navigate to the project directory, and install the required libraries using pip:
-         pip install -r requirements.txt
+        pip install pandas scikit-learn streamlit
 
 5.then run through streamlit :
          streamlit run movie_rec_app.py
